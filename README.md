@@ -37,6 +37,7 @@ The goal is to provide insights that can support policymakers, law enforcement a
 -	MAE (Mean Absolute Error)
 -	RMSE (Root Mean Squared Error)
 -	MAPE (Mean Absolute Percentage Error)
+-	R^2 score
 
 ## Results and Observations
 -	Random Forest Regressor performed best among machine learning models.
